@@ -35,4 +35,4 @@ El proyecto es apoyado por la escuela de posgrado de la carrera de medicina de l
 
 El equipo que conforma el proyecto esta conformado por editores de diversas partes de Bolivia, y de otros paises de latinoamerica.
 
-El proyecto fue posible gracias al tiempo de Franco Gamboa, Andre Vargas, Danae Carelis Davila, Jose Luis Villca, Nelson Franco Condori, Dana Belen Tapia, Camila Gomez Verduguez
+El proyecto fue posible gracias al tiempo del equipo de investigadores conformado por Franco Gamboa, Andre Vargas, Danae Carelis Davila, Jose Luis Villca, Nelson Franco Condori, Dana Belen Tapia, Camila Gomez Verduguez.
