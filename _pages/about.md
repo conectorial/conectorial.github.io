@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Este proyecto fue presentado en Open Life Science: 
-https://openlifesci.org/openseeds/ols-5/projects-participants.html#projects
+[OLS](https://openlifesci.org/openseeds/ols-5/projects-participants.html#projects)
 
 Visión:
 
@@ -23,10 +23,10 @@ Trabajamos para garantizar que la información científica sea transparente, rep
 
 Biblioteca de charlas sobre temas editoriales realizados en el proyecto de conectorial
 ======
-1. Procesos editoriales en revistas cientificas    :::: https://youtu.be/c9sCPMZCggM
-2. Ciencia abierta: Una vision global              :::: https://youtu.be/c9sCPMZCggM
-3. Malas practicas en procesos editoriales         :::: https://youtu.be/yP0iInuCpwM
-4. Indicadores bibliométricos de calidad editorial :::: https://youtu.be/ZcLqK7jiGRM
+1. Procesos editoriales en revistas cientificas    :::: [Ver video](https://youtu.be/c9sCPMZCggM)
+2. Ciencia abierta: Una vision global              :::: [Ver video](https://youtu.be/c9sCPMZCggM)
+3. Malas practicas en procesos editoriales         :::: [Ver video](https://youtu.be/yP0iInuCpwM)
+4. Indicadores bibliométricos de calidad editorial :::: [Ver video](https://youtu.be/ZcLqK7jiGRM)
 
 
 El proyecto es apoyado por la escuela de posgrado de la carrera de medicina de la universidad mayor de san simon, como por organizaciones internacionales como open life science, entre otros.
