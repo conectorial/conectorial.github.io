@@ -17,6 +17,7 @@ Ser el epicentro de la innovación y el intercambio científico en Bolivia, impu
 Conectorial se esfuerza por ser reconocida como una comunidad líder en la promoción de investigaciones de alta calidad, integridad y transparencia en las publicaciones científicas. Nuestra visión es transformar el panorama de la investigación en salud en Bolivia, haciendo que el conocimiento sea libremente accesible para todos, fomentando así un futuro más saludable e informado.
 
 Misión:
+
 Conectorial tiene la misión de unir a editores, investigadores y profesionales de la salud en una plataforma colaborativa para promover la ciencia abierta y la publicación ética en las revistas científicas de salud. 
 Nos comprometemos a facilitar el acceso a investigaciones relevantes y de calidad, apoyando la difusión del conocimiento científico en Bolivia y más allá. 
 Trabajamos para garantizar que la información científica sea transparente, reproducible y accesible, con el fin de mejorar la toma de decisiones en el cuidado de la salud y fomentar la innovación continua.
