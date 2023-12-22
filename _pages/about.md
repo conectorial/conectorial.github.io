@@ -12,7 +12,7 @@ Este proyecto fue presentado en Open Life Science:
 [OLS](https://openlifesci.org/openseeds/ols-5/projects-participants.html#projects)
 
 
-Autoria: Camila Alejandra Gomez Verduguez, Franco Gamboa Rivas , Andre Alvaro Vargas, Danae Carelis Davila, Jose Luis Villca, Nelson Franco Condori Salluco, Dana Belen Tapia, Camila Alejandra Gomez Verduguez.
+Autoria: Camila Alejandra Gomez Verduguez, Franco Gamboa Rivas , Andre Alvaro Vargas, Danae Carelis Davila, Jose Luis Villca, Nelson Franco Condori Salluco, Dana Belen Tapia.
 
 
 Visión:
